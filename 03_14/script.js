@@ -26,4 +26,3 @@ console.log("The pocketNum value:", everydayPack.pocketNum);
 console.log("Days since aquired:", everydayPack.backpackAge());
 console.log(HarryPotter);
 console.log(HarryPotter.allPages(true));
-console.log(HarryPotter);
